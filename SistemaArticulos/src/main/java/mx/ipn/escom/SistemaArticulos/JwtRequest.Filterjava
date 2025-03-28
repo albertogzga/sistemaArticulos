@@ -1,5 +1,0 @@
-package mx.ipn.escom.SistemaArticulos;
-
-public class JwtRequestFilter {
-
-}
